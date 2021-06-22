@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyHouseAPI", "CompanyHouseAPI.csproj", "{EE358FF2-ACDF-4704-8CDA-C81F12FDB044}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyHouseAPI.Test", "..\CompanyHouseAPI.Test\CompanyHouseAPI.Test.csproj", "{2C8E3421-DBF2-4ED2-B4A2-D0D6E9E7308A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE358FF2-ACDF-4704-8CDA-C81F12FDB044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE358FF2-ACDF-4704-8CDA-C81F12FDB044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE358FF2-ACDF-4704-8CDA-C81F12FDB044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE358FF2-ACDF-4704-8CDA-C81F12FDB044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8E3421-DBF2-4ED2-B4A2-D0D6E9E7308A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8E3421-DBF2-4ED2-B4A2-D0D6E9E7308A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8E3421-DBF2-4ED2-B4A2-D0D6E9E7308A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8E3421-DBF2-4ED2-B4A2-D0D6E9E7308A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01AE0D58-B47C-47D1-AF62-7281A29B5C42}
+	EndGlobalSection
+EndGlobal
